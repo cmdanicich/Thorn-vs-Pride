@@ -32,3 +32,7 @@ ORLPRIDE
 ### Next Steps: 
 I think the first question could be a little more interesting – where are followers located. You could follow this up by seeing if more Pride followers are location in Orlando or FL in general and same with the Portland Thorns. To do this, instead of using a followers list, I would scrape either the hashtag #orlpride or #thornsfc. Once collected and written to a text file I would use pandas to graph common locations of users tweeting the hashtag.
 
+
+## Acquire and Analyze
+
+For my acquire and analyze I have decided to reuse this data and get some more insightful information out of it. I will using pandas to set up a dataframe as well as a wordcloud that display location in relationship to ThornsFC followers. 
